@@ -9,6 +9,7 @@ What’s a “Plurality Score?” A Plurality Score is quadratic voting adjusted
 Why Plurality Scoring? With collusion-resistant QV, communities can both capture the intensity of the members preferences (QV), while 
 discounting the influence of social clusters that may otherwise drown out minority voices. Importantly, collusion-resistant QV surfaces questions and agendas which multiple perspectives agree on is important, thereby avoiding capture and concentration of power by a social cluster. 
 
+### [Decentralization Community Attention Curation](#dac)
 Plurality Scores are a first and playful step towards decentralized community attention curation. Try it out for setting the agendas of conferences, surfacing important proposals for votes, and elevating community quesitons for deliberation (we have anintegration with pol.is!).
 
 We encourage you to run your local community channel, adapt it to your community’s communication needs, hidden collusions, and privacy preferences.
