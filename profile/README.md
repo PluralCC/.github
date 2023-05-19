@@ -4,13 +4,13 @@ Hi! This is a Plural Communication Channel (PCC) built by the Plurality Network,
 
 ### [Plurality Score](#plurality)
 
-What’s a “Plurality Score?” A Plurality Score is quadratic voting adjusted by affiliations to approximate [collusion-resistant quadratic voting.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4311507) We use the “Connection Oriented Cluster Match Formula,” with a playful start by adjusting for your workplace and [Civ6 political ideology.](https://www.radicalxchange.org/media/blog/political-ideologies-for-the-21st-century/). Communities can encode other parameters for correlation discounts (such as geography and investors), and can rely on other identity markers like Verified Credentials and Soulbound Tokens.
+What’s a “Plurality Score?” A Plurality Score is quadratic voting adjusted by affiliations to approximate [collusion-resistant quadratic voting.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4311507) We use the “Connection Oriented Cluster Match Formula,” with a playful start by adjusting for your workplace and [Civ6 political ideology.](https://www.radicalxchange.org/media/blog/political-ideologies-for-the-21st-century/). Communities can encode other parameters for correlation discounts (such as geography and investor bases), and can other incorporate social markers like Verified Credentials and Soulbound Tokens.
 
 Why Plurality Scoring? With collusion-resistant QV, communities can both capture the intensity of the members preferences (QV), while 
-discounting the influence of social clusters that may otherwise drown out minority voices. Importantly, collusion-resistant QV surfaces questions and agendas which multiple perspectives agree on is important, thereby avoiding capture and concentration of power by a social cluster. 
+discounting the influence of social clusters that may otherwise drown out minority voices. Questions and agendas which multiple perspectives agree on is important surface, thereby avoiding attention-capture and power concentration of a social cluster. 
 
 ### [Decentralized Attention Curation](#dac)
-Plurality Scores are a first and playful step towards decentralized community attention curation. Try it out for setting the agendas of conferences, surfacing important proposals for votes, and elevating community quesitons for deliberation (we have anintegration with pol.is!).
+Plurality Scores are a first and playful step towards decentralized community attention curation. Try it out for setting the agendas of conferences, surfacing important proposals for votes, and elevating community quesitons for deliberation (we have an integration with pol.is!).
 
 We encourage you to run your local community channel, adapt it to your community’s communication needs, hidden collusions, and privacy preferences.
 
