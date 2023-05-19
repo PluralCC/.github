@@ -10,7 +10,7 @@ Why Plurality Scoring? With collusion-resistant QV, communities can both capture
 discounting the influence of social clusters that may otherwise drown out minority voices. When multiple perspectives agree a question or issue is important, it surfaces to the top, thereby eschewing attention-capture and power concentration of a social cluster. 
 
 ### [Decentralized Attention Curation](#dac)
-Plurality Scores are a first and playful step towards decentralized community attention curation. Try it out for setting the agendas of conferences, surfacing important proposals for votes, and elevating community quesitons for deliberation (we have an integration with pol.is!).
+Plurality Scores are a first and playful step towards decentralized community attention curation. Try it out for setting the agendas of conferences, surfacing important proposals for votes, and elevating community questions for on-going deliberation.
 
 We encourage you to run your local community channel, adapt it to your community’s communication needs, hidden collusions, and privacy preferences.
 
