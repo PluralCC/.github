@@ -1,12 +1,13 @@
 ## [About](#about)
 
-Hi! This is a Plural Communication Channel (PCC) built by the Plurality Network, a group of volunteers who are committed to building socially and technologically augmented Pluralistic Futures. Our mission is to build technologies that enrich human communication and cooperation for a networked society that bridges cooperation across differences.
+Hi! This is a Plural Communication Channel (PCC) built by the Plurality Network, a group of volunteers who are committed to building assistive technologies that bridge human communication and enhance cooperation across difference for networked societies and Pluralistic Futures. 
 
 ### [Plurality Score](#plurality)
 
-What’s a “Plurality Score?” A Plurality Score is quadratic voting adjusted to reflect affiliations to approximate [collusion-resistant quadratic voting.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4311507) We use the “Connection Oriented Cluster Match Formula,” with a playful start by adjusting for your workplace and [Civ6 political ideology.](https://www.radicalxchange.org/media/blog/political-ideologies-for-the-21st-century/)
+What’s a “Plurality Score?” A Plurality Score is quadratic voting adjusted by affiliations to approximate [collusion-resistant quadratic voting.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4311507) We use the “Connection Oriented Cluster Match Formula,” with a playful start by adjusting for your workplace and [Civ6 political ideology.](https://www.radicalxchange.org/media/blog/political-ideologies-for-the-21st-century/). Communities can encode other parameters for correlation discounts, such as geography, and can rely on other identity markers like Verified Credentials and Soulbound Tokens.
 
-Why Plurality Scoring? With collusion resistant QV, communities can both capture the intensity of the members preferences while surfacing insights shared by less affiliated members to avoid capture, extraction, and ultimately concentration of power by a social cluster. Plurality Scores are a first and playful step towards decentralized attention curation.
+Why Plurality Scoring? With collusion-resistant QV, communities can both capture the intensity of the members preferences (QV), while 
+discounting the influence of social clusters that may otherwise drown out minority voices. Importantly, collusion-resistant QV surfaces questions, agendas, and thoughts which multiple perspectives agree on is important, thereby avoiding capture and concentration of power by a social cluster. Plurality Scores are a first and playful step towards decentralized community attention curation.
 
 Our [github is here](https://github.com/PluralCC/plural-discourse). We encourage you to run your local community channel, adapt it to your community’s communication needs, hidden collusions, and privacy preferences.
 
